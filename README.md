@@ -1,5 +1,7 @@
 # Auto-Mobile-Sales
 Auto Mobile Sales Analysis using Power BI
+### Data Source: kaggle https://www.kaggle.com/datasets/ddosad/auto-sales-data
+
 ## Overview
 This project involves creating a Power BI dashboard to analyse the sales performance of an automobile company. The dashboard provides insights into total sales, quantity sold, product diversity, and geographic distribution of sales.
 
@@ -20,3 +22,4 @@ To create a Power BI dashboard that helps stakeholders make data-driven decision
 4. Top 5 Country by Sales: Sales distribution across the top five countries.
 
 ## Report
+![Capture](https://github.com/punithkp169/Auto-Mobile-Sales/assets/173493345/76390894-5fb8-43fe-be10-0d21e5f4b911)
